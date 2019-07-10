@@ -4,7 +4,7 @@ require "httparty/version"
 
 Gem::Specification.new do |s|
   s.name        = "httparty-responsibly"
-  s.version     = HTTParty::VERSION + '.r'
+  s.version     = HTTParty::VERSION + '.r1
   s.platform    = Gem::Platform::RUBY
   s.licenses    = ['MIT']
   s.authors     = ["John Nunemaker", "Sandro Turriate", "James Denness"]
