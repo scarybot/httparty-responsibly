@@ -1,6 +1,6 @@
 # httparty
 
-Makes http fun again!  Ain't no party like a httparty, because a httparty don't stop.
+An up-to-date fork of httparty, without the post-install nonsense.
 
 ## Install
 
@@ -12,7 +12,6 @@ gem install httparty
 
 * Ruby 2.0.0 or higher
 * multi_xml
-* You like to party!
 
 ## Examples
 
