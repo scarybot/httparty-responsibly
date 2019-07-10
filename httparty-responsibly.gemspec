@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["John Nunemaker", "Sandro Turriate", "James Denness"]
   s.email       = ["nunemaker@gmail.com", "james@denness.org"]
   s.homepage    = "https://github.com/jnunemaker/httparty"
-  s.summary     = 'An up-to-date fork of jnunemaker's httparty, without the post-install nonsense.'
-  s.description = 'An up-to-date fork of jnunemaker's httparty, without the post-install nonsense.'
+  s.summary     = "An up-to-date fork of jnunemaker's httparty, without the post-install nonsense."
+  s.description = "An up-to-date fork of jnunemaker's httparty, without the post-install nonsense."
 
   s.required_ruby_version     = '>= 2.0.0'
 
