@@ -4,12 +4,12 @@ require "httparty/version"
 
 Gem::Specification.new do |s|
   s.name        = "httparty-responsibly"
-  s.version     = HTTParty::VERSION
+  s.version     = HTTParty::VERSION + '.r'
   s.platform    = Gem::Platform::RUBY
   s.licenses    = ['MIT']
   s.authors     = ["John Nunemaker", "Sandro Turriate", "James Denness"]
   s.email       = ["nunemaker@gmail.com", "james@denness.org"]
-  s.homepage    = "https://github.com/jnunemaker/httparty"
+  s.homepage    = "https://github.com/scarybot/httparty-responsibly"
   s.summary     = "An up-to-date fork of jnunemaker's httparty, without the post-install nonsense."
   s.description = "An up-to-date fork of jnunemaker's httparty, without the post-install nonsense."
 
